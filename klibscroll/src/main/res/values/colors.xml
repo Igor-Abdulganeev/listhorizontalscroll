@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="basic_dark">#2B193F</color>
+    <color name="gradient_start">#4E5052</color>
+    <color name="gradient_end">#0572AF</color>
+    <color name="head_background_off">#C5B9A3</color>
+    <color name="text_color">#A1C7D2</color>
+    <color name="head_text">#796878</color>
+    <color name="main_background">#DBF0F5</color>
+</resources>
